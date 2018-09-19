@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+
+/__pycache__
 /ConsoleApp1/.vs/ConsoleApp1/v15
 /ConsoleApp1/obj/Debug
-/ConsoleApp1
-/__pycache__
